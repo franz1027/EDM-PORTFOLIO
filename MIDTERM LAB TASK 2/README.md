@@ -32,14 +32,19 @@ choose reference (Queries pane)
 - To view dependencies and References of the QUERIES
 ## clean data
 <img src="clean date.png">
+
 ## sal by type
 <img src="sal by role type dup.png">
+
 ## sal ref
 <img src="sal ref.png">
+
 ## sal size
 <img src="sal size.png">
+
 ## uncleaned
 <img src="uncleaned.png">
+
 ## table
 <img src="tables.png">
 
