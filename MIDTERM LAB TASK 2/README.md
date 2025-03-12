@@ -30,10 +30,16 @@ choose reference (Queries pane)
 - choose reference (Queries pane)
 - Rename the reference with “Sal By State ref
 - To view dependencies and References of the QUERIES
-## Here's the screenshot of my output before I started data cleaning (See screenshot)
+## clean data
 ![Sample Output](IMAGE/unclean%20data.png)
-## Here's the screenshot of my output after I started data cleaning (See screenshot)
+## sal by type
 ![Sample Output ](IMAGE/clean%20data.png).
-## Here's the Physical Data Model
+## sal ref
+![Sample Output ](IMAGE/relationship%20model.png).
+## sal size
+![Sample Output](IMAGE/unclean%20data.png)
+## uncleaned
+![Sample Output ](IMAGE/clean%20data.png).
+## table
 ![Sample Output ](IMAGE/relationship%20model.png).
 
