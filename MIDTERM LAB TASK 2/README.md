@@ -35,7 +35,7 @@ choose reference (Queries pane)
 ## sal by type
 <img src="sal by role type dup.png">
 ## sal ref
-<img src="clean date.png">
+<img src="sal ref.png">
 ## sal size
 <img src="sal size.png">
 ## uncleaned
