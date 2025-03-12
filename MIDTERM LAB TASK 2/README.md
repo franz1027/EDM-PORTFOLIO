@@ -30,21 +30,21 @@ choose reference (Queries pane)
 - choose reference (Queries pane)
 - Rename the reference with “Sal By State ref
 - To view dependencies and References of the QUERIES
-## Clean data
+## The screen shot of Clean data
 <img src="clean date.png">
 
-## Sal by type
+## The screen shot of Sal by Role type – dupl
 <img src="sal by role type dup.png">
 
-## Sal by ref
+## The screen shot of Sal by State ref
 <img src="sal ref.png">
 
-## Sal by size
+## The screen shot of Sal By size ref, state
 <img src="sal size.png">
 
-## Uncleaned
+## The screen shot of Uncleaned DS Jobs
 <img src="uncleaned.png">
 
-## table
+## The screen shot of table
 <img src="tables.png">
 
