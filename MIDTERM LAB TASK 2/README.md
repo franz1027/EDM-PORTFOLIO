@@ -31,15 +31,15 @@ choose reference (Queries pane)
 - Rename the reference with “Sal By State ref
 - To view dependencies and References of the QUERIES
 ## clean data
-![Sample Output](IMAGE/unclean%20data.png)
+![Sample Output](image/uncleaned.png)
 ## sal by type
-![Sample Output ](IMAGE/clean%20data.png).
+![Sample Output ](image/sal%20by%20role%20type%20dup.png).
 ## sal ref
-![Sample Output ](IMAGE/relationship%20model.png).
+![Sample Output ](image/sal%20ref.png).
 ## sal size
-![Sample Output](IMAGE/unclean%20data.png)
+![Sample Output](image/sal%20size.png)
 ## uncleaned
 ![Sample Output ](IMAGE/clean%20data.png).
 ## table
-![Sample Output ](IMAGE/relationship%20model.png).
+![Sample Output ](image/table.png).
 
