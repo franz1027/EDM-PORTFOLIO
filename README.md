@@ -19,3 +19,5 @@ I’m excited about the journey ahead and the chance to learn, grow, and make a 
 ## My Projects
 * Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](MIDTERM%20TASK%201)
 * Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](MIDTERM%20LAB%20TASK%202)
+* Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](MIDTERM%20LAB%20TASK%202)
+
