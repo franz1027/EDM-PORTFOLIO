@@ -77,4 +77,4 @@ For each of the Pivot Tables you created:
 By following these steps, you’ll be able to create an interactive and visually engaging dashboard that showcases the insights you’re looking to analyze. Let me know if you need further clarification on any step!
 
 ## Example of the out
-<>
+<img src="the screen shot of the output.png">
