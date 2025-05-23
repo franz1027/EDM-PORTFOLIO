@@ -1,13 +1,13 @@
--use mongo_practice
--switched to db mongo_practice
--Insert the following documents into a `movies` collection.
+use mongo_practice
+switched to db mongo_practice
+Insert the following documents into a `movies` collection.
 
--db.movies.insert({title:"Fight Club", writer: "Chuck Palahniuk", year: "1999", actors:["Brad Pitt", "Edward Norton"]})
--DeprecationWarning: Collection.insert() is deprecated. Use insertOne, insertMany, or bulkWrite.
--{
--  acknowledged: true,
--  insertedIds: {
- -   '0': ObjectId('68307618082aab3cd7c80c9b')
+db.movies.insert({title:"Fight Club", writer: "Chuck Palahniuk", year: "1999", actors:["Brad Pitt", "Edward Norton"]})
+DeprecationWarning: Collection.insert() is deprecated. Use insertOne, insertMany, or bulkWrite.
+{
+ acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('68307618082aab3cd7c80c9b')
   }
 }
  db.movies.insert({title:"Pulp Fiction", writer:"Quentin Tarantino", year:"2009", actors:["John Travolta", "Uma Thurman"]})
